@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecDriver", "Test\SpecDriver\SpecDriver.csproj", "{380DA30E-759F-4C38-9D7E-9D6EA721D166}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{FCDEF0E7-0BBC-44B4-9EA3-0CE3010DB041}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		SpecFlowChrome|Any CPU = SpecFlowChrome|Any CPU
+		SpecFlowChrome|Mixed Platforms = SpecFlowChrome|Mixed Platforms
+		SpecFlowChrome|x86 = SpecFlowChrome|x86
+		SpecFlowIE|Any CPU = SpecFlowIE|Any CPU
+		SpecFlowIE|Mixed Platforms = SpecFlowIE|Mixed Platforms
+		SpecFlowIE|x86 = SpecFlowIE|x86
+		SpecFlowPresys|Any CPU = SpecFlowPresys|Any CPU
+		SpecFlowPresys|Mixed Platforms = SpecFlowPresys|Mixed Platforms
+		SpecFlowPresys|x86 = SpecFlowPresys|x86
+		SpecFlowRemoteChrome|Any CPU = SpecFlowRemoteChrome|Any CPU
+		SpecFlowRemoteChrome|Mixed Platforms = SpecFlowRemoteChrome|Mixed Platforms
+		SpecFlowRemoteChrome|x86 = SpecFlowRemoteChrome|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{380DA30E-759F-4C38-9D7E-9D6EA721D166}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{380DA30E-759F-4C38-9D7E-9D6EA721D166}.Debug|Any CPU.Build.0 = Debug|x86
+		{380DA30E-759F-4C38-9D7E-9D6EA721D166}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{380DA30E-759F-4C38-9D7E-9D6EA721D166}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{380DA30E-759F-4C38-9D7E-9D6EA721D166}.Debug|x86.ActiveCfg = Debug|x86
+		{380DA30E-759F-4C38-9D7E-9D6EA721D166}.Debug|x86.Build.0 = Debug|x86
+		{380DA30E-759F-4C38-9D7E-9D6EA721D166}.SpecFlowChrome|Any CPU.ActiveCfg = SpecFlowChrome|x86
+		{380DA30E-759F-4C38-9D7E-9D6EA721D166}.SpecFlowChrome|Mixed Platforms.ActiveCfg = SpecFlowChrome|x86
+		{380DA30E-759F-4C38-9D7E-9D6EA721D166}.SpecFlowChrome|Mixed Platforms.Build.0 = SpecFlowChrome|x86
+		{380DA30E-759F-4C38-9D7E-9D6EA721D166}.SpecFlowChrome|x86.ActiveCfg = SpecFlowChrome|x86
+		{380DA30E-759F-4C38-9D7E-9D6EA721D166}.SpecFlowChrome|x86.Build.0 = SpecFlowChrome|x86
+		{380DA30E-759F-4C38-9D7E-9D6EA721D166}.SpecFlowIE|Any CPU.ActiveCfg = SpecFlowIE|x86
+		{380DA30E-759F-4C38-9D7E-9D6EA721D166}.SpecFlowIE|Mixed Platforms.ActiveCfg = SpecFlowIE|x86
+		{380DA30E-759F-4C38-9D7E-9D6EA721D166}.SpecFlowIE|Mixed Platforms.Build.0 = SpecFlowIE|x86
+		{380DA30E-759F-4C38-9D7E-9D6EA721D166}.SpecFlowIE|x86.ActiveCfg = SpecFlowIE|x86
+		{380DA30E-759F-4C38-9D7E-9D6EA721D166}.SpecFlowIE|x86.Build.0 = SpecFlowIE|x86
+		{380DA30E-759F-4C38-9D7E-9D6EA721D166}.SpecFlowPresys|Any CPU.ActiveCfg = SpecFlowPresys|x86
+		{380DA30E-759F-4C38-9D7E-9D6EA721D166}.SpecFlowPresys|Mixed Platforms.ActiveCfg = SpecFlowPresys|x86
+		{380DA30E-759F-4C38-9D7E-9D6EA721D166}.SpecFlowPresys|Mixed Platforms.Build.0 = SpecFlowPresys|x86
+		{380DA30E-759F-4C38-9D7E-9D6EA721D166}.SpecFlowPresys|x86.ActiveCfg = SpecFlowPresys|x86
+		{380DA30E-759F-4C38-9D7E-9D6EA721D166}.SpecFlowPresys|x86.Build.0 = SpecFlowPresys|x86
+		{380DA30E-759F-4C38-9D7E-9D6EA721D166}.SpecFlowRemoteChrome|Any CPU.ActiveCfg = SpecFlowIE|x86
+		{380DA30E-759F-4C38-9D7E-9D6EA721D166}.SpecFlowRemoteChrome|Mixed Platforms.ActiveCfg = SpecFlowRemoteChrome|x86
+		{380DA30E-759F-4C38-9D7E-9D6EA721D166}.SpecFlowRemoteChrome|Mixed Platforms.Build.0 = SpecFlowRemoteChrome|x86
+		{380DA30E-759F-4C38-9D7E-9D6EA721D166}.SpecFlowRemoteChrome|x86.ActiveCfg = SpecFlowRemoteChrome|x86
+		{380DA30E-759F-4C38-9D7E-9D6EA721D166}.SpecFlowRemoteChrome|x86.Build.0 = SpecFlowRemoteChrome|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{380DA30E-759F-4C38-9D7E-9D6EA721D166} = {FCDEF0E7-0BBC-44B4-9EA3-0CE3010DB041}
+	EndGlobalSection
+EndGlobal
